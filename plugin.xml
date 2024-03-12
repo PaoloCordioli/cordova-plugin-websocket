@@ -51,10 +51,10 @@
         
         <podspec>
             <config>
-			    <source url="https://github.com/CocoaPods/Specs.git"/>
-		    </config>
+		<source url="https://github.com/CocoaPods/Specs.git" />
+	    </config>
             <pods use-frameworks="true">
-                <pod name="SocketRocket" spec="0.5.1" />
+		<pod name="SocketRocket" />
             </pods>
         </podspec>
     </platform>
