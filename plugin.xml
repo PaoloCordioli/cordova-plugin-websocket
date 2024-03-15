@@ -53,8 +53,8 @@
             <config>
 		<source url="https://github.com/CocoaPods/Specs.git" />
 	    </config>
-            <pods use-frameworks="true">
-		<pod name="SocketRocket" spec="0.6.0" />
+            <pods>
+		<pod name="SocketRocket" spec="0.5.1" />
             </pods>
         </podspec>
     </platform>
